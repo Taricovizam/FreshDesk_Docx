@@ -90,7 +90,8 @@ Now, u can see only the tickets assigned to u.
 >_any suggested cases that may need to be tagged?_
 >_revision:_ after the first delivery.
 >_noreply:_ more than 7 days passed.
->_delivered:_ for exporting Implementation finished jobs.
+>_billed:_ for a client to whom we sent a bill.
+>_dlv:_ for exporting Implementation finished jobs. (_delivered **Formerly**)
 
 >- u can add more than one tag on a ticket.
 >- those tags will help to identify clients (when open their Freshdesk profile and see their tickets tagged)
@@ -130,7 +131,7 @@ Scenarios** _(The Best Option)
 
 >- We will Ask **Account Info**.
 >- We will send **Applicability**.
->- We will send **Pricing**.
+>- We will send **Price Quotes**.
 >- We will send **Payment Info**.
 >- We will send **Automatic Response After Payment is Made**.
 
