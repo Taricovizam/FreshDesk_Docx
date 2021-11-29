@@ -173,7 +173,7 @@ Recommended:
 
 Updates: (Newly added)
 1) No Reply: new categorization to label a ticket that had been without a response for 7 days or longer.
-
+2) Using Scenarios will add tags chronologically to track down a ticket history.
 ----
 
 Auto Ref: 
