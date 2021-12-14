@@ -1,8 +1,6 @@
-<div style="text-align:center;font-size:15px;font-weight:bold;">This Guide is on how you can use FreshDesk in an effective way and make use of all its features. We will walk you through all the feature that we use to inhance the workflow and make ur experience better.</div>
+># This Guide is on how you can use FreshDesk in an effective way and make use of all its features. We will walk you through all the feature that we use to inhance the workflow and make ur experience better.
 
-<div style="text-align:center">
 --------------------------------------------------- START ---------------------------------------------------
-</div>
 
 ## We have broken down our workflow throughout the day into few scenarios/stages, so we can easily manage different situations:
 
@@ -70,7 +68,8 @@ Now, u can see only the tickets assigned to u.
 - Add **revision** tag,
 - Update,
 - Wait for a response.
----------
+
+---
 
 ### 5) In case of exceeded 7 days with no reply:
 
@@ -81,10 +80,9 @@ Now, u can see only the tickets assigned to u.
 - Add **No Reply** label from **Implementation** field,
 - Update.
 
-Now, u can see only the tickets assigned to u.
------------------
+Now, u can see only the tickets assigned to u
 
---------------------
+-----------------
 
 ## Notes:
 
