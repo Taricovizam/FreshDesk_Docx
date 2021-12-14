@@ -1,23 +1,31 @@
-## We have a few scenarios:
+<div style="text-align:center;font-size:15px;font-weight:bold;">This Guide is on how you can use FreshDesk in an effective way and make use of all its features. We will walk you through all the feature that we use to inhance the workflow and make ur experience better.</div>
 
-### 1) At the beginning of the day, u open ur account to check out new tickets, therefore u wanna see all the new tickets.
+<div style="text-align:center">
+--------------------------------------------------- START ---------------------------------------------------
+</div>
+
+## We have broken down our workflow throughout the day into few scenarios/stages, so we can easily manage different situations:
+
+### 1) At the beginning of the day ::GOAL:: Checking out all the new tickets:
 
 =Procedures:
 - Open Freshdesk,
 - Filter by Status **(Open and Pending)**,
 - Filter by Group **(Implementation)**.
+- Set Date to be **(Anytime)**
 
 Now, u can see _all the new tickets_ and check them one by one.
 
-----------
+---
 
-### 2) Checking a ticket, 
+### 2) When u open a ticket, u have two options to go with: 
 
-### A) If u will respond immediately,
+#### A) ::GOAL:: u will respond immediately,
+
 =Procedures:
 - Respond and send,
 - Set Status as **Closed**
-- Add suitable Tag/s.
+- Add suitable Tag/s (will talk about those later)
 - Select **Your Name** from the Agent menu (Mandatory)
 
 - **Update**
@@ -28,21 +36,21 @@ If it u expect the client gonna reply to the ticket:
 as an **OVERDUE**
 -- **Update**
 
-### B) If u gonna skip, do not skip before:
+#### B) ::GOAL:: u gonna skip for now: (Do NOT skip before)
+
 =Procedures:
 - Open up the ticket,
 - Check out the question,
 - Assign a task from the **Implementation** drop-down menu,
-- Add suitable Tag/s.
-- Set the Resolution Due as u want SO THAT the ticket is never red-flagged 
-as an **OVERDUE**
+- Add suitable Tag/s,
+- Set the Resolution Due to an extended period SO THAT the ticket is never red-flagged as an **OVERDUE**
 - Select **Your Name** from the Agent menu (Mandatory) 
 - Add suitable Tag/s.
 - **Update**
 
----------
+---
 
-### 3) In the middle of the day, u wanna check out ur tasks:
+### 3) In the middle of the day ::GOAL:: Checking out ur tasks:
 
 =Procedures:
 - Open Freshdesk,
@@ -52,10 +60,9 @@ as an **OVERDUE**
 
 Now, u can see only the tickets assigned to u.
 
+---
 
----------
-
-### 4) In case of delivering:
+### 4) You finished ur task ::GOAL:: delivering:
 
 =Procedures:
 - Open the ticket finished,
